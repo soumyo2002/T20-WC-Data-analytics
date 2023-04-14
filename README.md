@@ -22,9 +22,10 @@ After installing the required packages, you can run the scripts in the `scripts`
 
 ```python
 python scripts/<script-name>.py
+```
 
 
-Data Sources
+## Data Sources
 The following data sources were used in this project:
 
 ICC T20 World Cup website
@@ -37,5 +38,6 @@ Create a new branch for your changes.
 Make your changes and commit them, with clear commit messages.
 Push your changes to your fork.
 Submit a pull request.
-License
+
+## License
 This project is licensed under the MIT License. See the LICENSE file for more information.
